@@ -1,1 +1,8 @@
 hi balaji this is my first file created
+git init
+git add
+git status
+git config
+git commit -m
+git commit -m -a
+
